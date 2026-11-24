@@ -1,0 +1,20 @@
+{
+  "name": "eksisozluk-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eksi Sozluk Scraper: Scrape Ek\u015fi S\u00f6zl\u00fck entries from topics, searches, g\u00fcndem, debe and authors with text, date, favorites and author. No login needed. Export JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "eksisozluk"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

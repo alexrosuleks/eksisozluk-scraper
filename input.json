@@ -1,0 +1,15 @@
+{
+  "startUrls": [
+    "https://eksisozluk.com/istanbul--32102"
+  ],
+  "searchQueries": [
+    "deprem"
+  ],
+  "maxItems": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
